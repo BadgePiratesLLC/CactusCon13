@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ea1acf36-6b80-4241-8fb1-2bcc568b8a8c")
+	(paper "USLetter")
+	(title_block
+		(title "RedTeamVillage")
+		(date "2024-02-20")
+		(rev "v1")
+		(company "BadgePirates")
+		(comment 1 "ESP32-S3 WROOM (WIFI/BTLE)")
+		(comment 2 "USB to Serial Connector / MicroSD")
+		(comment 3 "Lipo Charger / 14500 Battery x2 / Battery Guage")
+		(comment 4 "4 Input Buttons  /Rotary Dials / SPI TFT")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,2621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\KevinBennett\OneDrive - Tier 3 Tech\Badges\Project-RTV\CAD\Project-RTV.kicad_sch</source>
+    <date>2/21/2024 7:44:09 PM</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>Project-RTV.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>USB_Connections.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>LEDs.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Screens/" tstamps="/7bbc5ee4-a356-48de-a261-211ab35ec87b/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>Screens.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>RotaryEncoders.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Power and Charge Curcuit/Max17048/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/50cd2632-424e-4caa-986e-e3deda989559/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>Max17048.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/">
+      <title_block>
+        <title>RedTeamVillage</title>
+        <company>BadgePirates</company>
+        <rev>v1</rev>
+        <date>2024-02-20</date>
+        <source>Power.kicad_sch</source>
+        <comment number="1" value="ESP32-S3 WROOM (WIFI/BTLE)"/>
+        <comment number="2" value="USB to Serial Connector / MicroSD"/>
+        <comment number="3" value="Lipo Charger / 14500 Battery x2 / Battery Guage"/>
+        <comment number="4" value="4 Input Buttons  /Rotary Dials / SPI TFT"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</datasheet>
+      <fields>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="C_.1uf_0805" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFG" value="TORCH "/>
+      <property name="MFG_PN" value="CT41G-0805-2X1-50V-0.1μF-K(N)"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C126469"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d21d29a-23d2-4d0b-896e-70bd3caf56f6</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</datasheet>
+      <fields>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="C_.1uf_0805" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TORCH "/>
+      <property name="MFG_PN" value="CT41G-0805-2X1-50V-0.1μF-K(N)"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C126469"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614a62be</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2006102223_Samsung-Electro-Mechanics-CL21A226MAYNNNE_C602037.pdf</datasheet>
+      <fields>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG_PN">CL21A226MAYNNNE</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C602037</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A226MAYNNNE_C602037.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG_PN" value="CL21A226MAYNNNE"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C602037"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A226MAYNNNE_C602037.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614a6cda</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</datasheet>
+      <fields>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="C_.1uf_0805" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TORCH "/>
+      <property name="MFG_PN" value="CT41G-0805-2X1-50V-0.1μF-K(N)"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C126469"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615a82c0</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL21A106KPCLQNC_C962097.pdf</datasheet>
+      <fields>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG_PN">CL21A106KPCLQNC</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C962097</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KPCLQNC_C962097.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG_PN" value="CL21A106KPCLQNC"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C962097"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KPCLQNC_C962097.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7a3dbe1-62fa-4978-bc0a-4ff15cf51830</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>PWR</value>
+      <footprint>BadgePirates:LED_1206</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206C1_C84273.pdf</datasheet>
+      <fields>
+        <field name="MFG">Foshan NationStar Optoelectronics</field>
+        <field name="MFG_PN">NCD1206C1</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C84273</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD1206C1_C84273.html</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MFG" value="Foshan NationStar Optoelectronics"/>
+      <property name="MFG_PN" value="NCD1206C1"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C84273"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD1206C1_C84273.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006149a82d</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Micro_SD_Card</value>
+      <footprint>BadgePirates:TF_PUSH</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2110151630_XKB-Connectivity-XKTF-015-N_C381082.pdf</datasheet>
+      <fields>
+        <field name="MFG">SHOU HAN</field>
+        <field name="MFG_PN">TF PUSH</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C393941</field>
+        <field name="Vendor1_UPN">https://www.lcsc.com/product-detail/SD-Card-Connectors_SHOU-HAN-TF-PUSH_C393941.html</field>
+      </fields>
+      <libsource lib="Connector" part="Micro_SD_Card_Det1" description="Micro SD Card Socket with one card detection pin"/>
+      <property name="MFG" value="SHOU HAN"/>
+      <property name="MFG_PN" value="TF PUSH"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C393941"/>
+      <property name="Vendor1_UPN" value="https://www.lcsc.com/product-detail/SD-Card-Connectors_SHOU-HAN-TF-PUSH_C393941.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Micro SD Card Socket with one card detection pin"/>
+      <property name="ki_keywords" value="connector SD microsd"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c04d1e4-7c4f-4116-b2a3-765736b6c062</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231210_YAGEO-RC1206FR-071KL_C131398.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-071KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C131398</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RC1206FR-071KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C131398"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061525792</tstamps>
+    </comp>
+    <comp ref="RN1">
+      <value>10k_Array</value>
+      <footprint>BadgePirates:R_Array_Convex_4x0603</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811091020_YAGEO-YC164-FR-0710KL_C110924.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">YC164-RR-0710KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C110924</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Resistor-Networks-Arrays_YAGEO-YC164-FR-0710KL_C110924.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="YC164-RR-0710KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C110924"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Resistor-Networks-Arrays_YAGEO-YC164-FR-0710KL_C110924.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network, parallel topology"/>
+      <property name="ki_keywords" value="R network parallel topology isolated"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>104323f6-5a8e-469a-890c-fdfbdb4c279f</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Boot</value>
+      <footprint>BadgePirates:Switch_Tactile_SMD_B3U-1000P-BPVersion</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810010153_Omron-Electronics-B3U-1000P_C231329.pdf</datasheet>
+      <fields>
+        <field name="MFG">Omron Electronics</field>
+        <field name="MFG_PN">B3U-1000P</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C231329</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="MFG" value="Omron Electronics"/>
+      <property name="MFG_PN" value="B3U-1000P"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C231329"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html"/>
+      <property name="Vendor2" value=""/>
+      <property name="Vendor2_PN" value=""/>
+      <property name="Vendor2_URL" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061ceeaab</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>Reset</value>
+      <footprint>BadgePirates:Switch_Tactile_SMD_B3U-1000P-BPVersion</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810010153_Omron-Electronics-B3U-1000P_C231329.pdf</datasheet>
+      <fields>
+        <field name="MFG">Omron Electronics</field>
+        <field name="MFG_PN">B3U-1000P</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C231329</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="MFG" value="Omron Electronics"/>
+      <property name="MFG_PN" value="B3U-1000P"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C231329"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615b1b47</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ESP32-S3-WROOM-1 N8R8</value>
+      <footprint>BadgePirates:ESP32-S3-WROOM-1</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="MFG">ESPRESSIF</field>
+        <field name="MFG_PN">ESP32-S3-WROOM-1-N8R8</field>
+        <field name="Sim.Enable">0</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2913200</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N4R8_C2913200.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="ESP32-S3-WROOM-1-N8" description="2.4 GHz WiFi (802.11 b/g/n) and Bluetooth ® 5 (LE) module Built around ESP32S3 series of SoCs, Xtensa ® dualcore 32bit LX7 microprocessor Flash up to 16 MB, PSRAM up to 8 MB 36 GPIOs, rich set of peripherals Onboard PCB antenna"/>
+      <property name="OrderURL" value=""/>
+      <property name="Sim.Enable" value="0"/>
+      <property name="MFG" value="ESPRESSIF"/>
+      <property name="MFG_PN" value="ESP32-S3-WROOM-1-N8R8"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2913200"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N4R8_C2913200.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="2.4 GHz WiFi (802.11 b/g/n) and Bluetooth ® 5 (LE) module Built around ESP32S3 series of SoCs, Xtensa ® dualcore 32bit LX7 microprocessor Flash up to 16 MB, PSRAM up to 8 MB 36 GPIOs, rich set of peripherals Onboard PCB antenna"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2deebf8e-7e89-4004-81db-04eb25f819b2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CH340N</value>
+      <footprint>BadgePirates:SOIC-8-1EP_W3.9mm</footprint>
+      <datasheet>http://www.wch.cn/downloads/file/240.html</datasheet>
+      <fields>
+        <field name="MFG">WCH(Jiangsu Qin Heng)</field>
+        <field name="MFG_PN">CH340N</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2977777</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340N_C2977777.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="CH330N" description="USB serial converter, UART, SOIC-8"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="WCH(Jiangsu Qin Heng)"/>
+      <property name="MFG_PN" value="CH340N"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2977777"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340N_C2977777.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Project-RTV.kicad_sch"/>
+      <property name="ki_description" value="USB serial converter, UART, SOIC-8"/>
+      <property name="ki_keywords" value="usb uart wch serial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615912ef</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</datasheet>
+      <fields>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="C_.1uf_0805" description="Unpolarized capacitor, small symbol"/>
+      <property name="MFG" value="TORCH "/>
+      <property name="MFG_PN" value="CT41G-0805-2X1-50V-0.1μF-K(N)"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C126469"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>9d2f4752-af53-4b6f-9c57-b35f04444bd6</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>PESD2USB3UV-TR</value>
+      <footprint>BadgePirates:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PESD2USB3UV-T.pdf</datasheet>
+      <fields>
+        <field name="MFG">TECH PUBLIC</field>
+        <field name="MFG_PN">PESD2USB3UV-TR</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C7202955</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/span-style-background-color-ff0-ESD-span-Protection-Devices_TECH-PUBLIC-PESD2USB3UV-TR_C7202955.html</field>
+      </fields>
+      <libsource lib="BadgePiratesSymbolLibrary" part="PESD2USB3UV-TR" description="TVS Diode Array, 5.5V Standoff, 2 Channels, SOT-23 package"/>
+      <property name="MFG" value="TECH PUBLIC"/>
+      <property name="MFG_PN" value="PESD2USB3UV-TR"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C7202955"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/span-style-background-color-ff0-ESD-span-Protection-Devices_TECH-PUBLIC-PESD2USB3UV-TR_C7202955.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="TVS Diode Array, 5.5V Standoff, 2 Channels, SOT-23 package"/>
+      <property name="ki_keywords" value="usb esd protection suppression transient"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>c5b0b66e-db3e-410b-b496-7407930c4227</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>USB_C_Plug_USB2.0</value>
+      <footprint>BadgePirates:USB_C_Receptical-Jing</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="MFG">Jing Extension of the Electronic Co.</field>
+        <field name="MFG_PN">918-418K2023S40019</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C709035</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-918-418K2023S40019_C709035.html</field>
+      </fields>
+      <libsource lib="BadgePiratesSymbolLibrary" part="USB_C_Plug_USB2.0" description="USB 2.0-only Type-C Plug connector"/>
+      <property name="MFG" value="Jing Extension of the Electronic Co."/>
+      <property name="MFG_PN" value="918-418K2023S40019"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C709035"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-918-418K2023S40019_C709035.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only Type-C Plug connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>ce2f450a-7a72-49b2-817c-01481ac363f2</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1M</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-071ML_C108083.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-071ML</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C108083</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071ML_C108083.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RC1206FR-071ML"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C108083"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071ML_C108083.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>3f3664ca-f09a-469e-9380-a0196c965412</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010200_UNI-ROYAL-Uniroyal-Elec-1206W4F0000T5E_C17888.pdf</datasheet>
+      <fields>
+        <field name="MFG">UNI-ROYAL(Uniroyal Elec) </field>
+        <field name="MFG_PN">1206W4F0000T5E</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C17888</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F0000T5E_C17888.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="MFG" value="UNI-ROYAL(Uniroyal Elec) "/>
+      <property name="MFG_PN" value="1206W4F0000T5E"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C17888"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-1206W4F0000T5E_C17888.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>9a0199c5-6594-4bff-9ea4-99d3b1f83622</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5.1k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-075K1L_C163372.pdf</datasheet>
+      <fields>
+        <field name="MFG">YEGEO</field>
+        <field name="MFG_PN">RC1206FR-075K1L</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C163372</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-075K1L_C163372.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="MFG" value="YEGEO"/>
+      <property name="MFG_PN" value="RC1206FR-075K1L"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C163372"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-075K1L_C163372.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>6ef7c577-ffc3-4d73-ab75-baed9081efe8</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>5.1k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-075K1L_C163372.pdf</datasheet>
+      <fields>
+        <field name="MFG">YEGEO</field>
+        <field name="MFG_PN">RC1206FR-075K1L</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C163372</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-075K1L_C163372.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_5.1k_1206" description="Resistor, small US symbol"/>
+      <property name="MFG" value="YEGEO"/>
+      <property name="MFG_PN" value="RC1206FR-075K1L"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C163372"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-075K1L_C163372.html"/>
+      <property name="Sheetname" value="USB Connections"/>
+      <property name="Sheetfile" value="USB_Connections.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/USB Connections/" tstamps="/f4d203db-b80e-4dd6-b7dc-115cccaea233/"/>
+      <tstamps>95f52898-abcd-46b4-9959-cc66f4d11639</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</datasheet>
+      <fields>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KingBright"/>
+      <property name="MFG_PN" value="AA3528SYCKT09"/>
+      <property name="Vendor1" value="Mouser"/>
+      <property name="Vendor1_PN" value="604-AA3528SYCKT09"/>
+      <property name="Vendor1_URL" value="https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>3be04726-798f-4c5b-b8af-ba102a2fcf03</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</datasheet>
+      <fields>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_Yellow_ReverseMount_Gullwing" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KingBright"/>
+      <property name="MFG_PN" value="AA3528SYCKT09"/>
+      <property name="Vendor1" value="Mouser"/>
+      <property name="Vendor1_PN" value="604-AA3528SYCKT09"/>
+      <property name="Vendor1_URL" value="https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>d082760e-dad0-40f1-ba86-a7d3d583cebe</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</datasheet>
+      <fields>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_Yellow_ReverseMount_Gullwing" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KingBright"/>
+      <property name="MFG_PN" value="AA3528SYCKT09"/>
+      <property name="Vendor1" value="Mouser"/>
+      <property name="Vendor1_PN" value="604-AA3528SYCKT09"/>
+      <property name="Vendor1_URL" value="https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>c9a61bb2-3ed3-436c-ae30-d1e94e7d2711</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</datasheet>
+      <fields>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_Yellow_ReverseMount_Gullwing" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KingBright"/>
+      <property name="MFG_PN" value="AA3528SYCKT09"/>
+      <property name="Vendor1" value="Mouser"/>
+      <property name="Vendor1_PN" value="604-AA3528SYCKT09"/>
+      <property name="Vendor1_URL" value="https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>1d9f44ba-19ad-4754-a745-138f73133be8</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</datasheet>
+      <fields>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_Yellow_ReverseMount_Gullwing" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KingBright"/>
+      <property name="MFG_PN" value="AA3528SYCKT09"/>
+      <property name="Vendor1" value="Mouser"/>
+      <property name="Vendor1_PN" value="604-AA3528SYCKT09"/>
+      <property name="Vendor1_URL" value="https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>86b2acea-d241-4631-8441-6888b117771d</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</datasheet>
+      <fields>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_Yellow_ReverseMount_Gullwing" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KingBright"/>
+      <property name="MFG_PN" value="AA3528SYCKT09"/>
+      <property name="Vendor1" value="Mouser"/>
+      <property name="Vendor1_PN" value="604-AA3528SYCKT09"/>
+      <property name="Vendor1_URL" value="https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>22bc14f2-8f2a-456f-be25-4ce76e55a941</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B</value>
+      <footprint>BadgePirates:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="MFG">Worldsemi</field>
+        <field name="MFG_PN">WS2812B-B/T</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2761795</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_RGB_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Worldsemi"/>
+      <property name="MFG_PN" value="WS2812B-B/T"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2761795"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>edaca223-4d82-4383-a54f-63016284b32c</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>WS2812B</value>
+      <footprint>BadgePirates:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="MFG">Worldsemi</field>
+        <field name="MFG_PN">WS2812B-B/T</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2761795</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_RGB_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Worldsemi"/>
+      <property name="MFG_PN" value="WS2812B-B/T"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2761795"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>04be021e-a3c6-4a0e-8216-dcb665946119</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>WS2812B</value>
+      <footprint>BadgePirates:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="MFG">Worldsemi</field>
+        <field name="MFG_PN">WS2812B-B/T</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2761795</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_RGB_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Worldsemi"/>
+      <property name="MFG_PN" value="WS2812B-B/T"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2761795"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>70ec3259-143e-4cde-b511-d3f4e65182e5</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>WS2812B</value>
+      <footprint>BadgePirates:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="MFG">Worldsemi</field>
+        <field name="MFG_PN">WS2812B-B/T</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2761795</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="LED_RGB_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Worldsemi"/>
+      <property name="MFG_PN" value="WS2812B-B/T"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2761795"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>69d6c782-96c8-4036-a2e2-3c32f8e3168d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231210_YAGEO-RC1206FR-071KL_C131398.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-071KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C131398</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_1k_1206" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RC1206FR-071KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C131398"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>1dda0978-7c1e-4984-ad63-a85c08b4f7e7</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231210_YAGEO-RC1206FR-071KL_C131398.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-071KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C131398</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_1k_1206" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RC1206FR-071KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C131398"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>2889baec-ef88-4413-9372-e55340e81b47</tstamps>
+    </comp>
+    <comp ref="RN2">
+      <value>1k_Array</value>
+      <footprint>BadgePirates:R_Array_Convex_4x0603</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-YC164-JR-071KL_C93675.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">YC164-JR-071KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C93675</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Resistor-Networks-Arrays_YAGEO-YC164-JR-071KL_C93675.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="YC164-JR-071KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C93675"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Resistor-Networks-Arrays_YAGEO-YC164-JR-071KL_C93675.html"/>
+      <property name="Sheetname" value="LEDs"/>
+      <property name="Sheetfile" value="LEDs.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network, parallel topology"/>
+      <property name="ki_keywords" value="R network parallel topology isolated"/>
+      <sheetpath names="/LEDs/" tstamps="/3c34205f-0c14-4e66-b000-3f846d3d7657/"/>
+      <tstamps>d5023088-1d7b-44ed-aa87-59463cceea73</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>RoundDisplay_SPI</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x07_Pin" description="Generic connector, single row, 01x07, script generated"/>
+      <property name="Sheetname" value="Screens"/>
+      <property name="Sheetfile" value="Screens.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="dnp"/>
+      <property name="ki_description" value="Generic connector, single row, 01x07, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Screens/" tstamps="/7bbc5ee4-a356-48de-a261-211ab35ec87b/"/>
+      <tstamps>5ca02c40-fbec-4d5b-b533-903bd8a445db</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2210181830_YAGEO-RT1206FRE074K7L_C872804.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RT1206FRE074K7L</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C872804</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT1206FRE074K7L_C872804.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_4.7k_1206" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RT1206FRE074K7L"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C872804"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT1206FRE074K7L_C872804.html"/>
+      <property name="Sheetname" value="Screens"/>
+      <property name="Sheetfile" value="Screens.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/Screens/" tstamps="/7bbc5ee4-a356-48de-a261-211ab35ec87b/"/>
+      <tstamps>7d94747d-13d1-4217-afdf-9020f92debbe</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2210181830_YAGEO-RT1206FRE074K7L_C872804.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RT1206FRE074K7L</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C872804</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT1206FRE074K7L_C872804.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_4.7k_1206" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RT1206FRE074K7L"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C872804"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT1206FRE074K7L_C872804.html"/>
+      <property name="Sheetname" value="Screens"/>
+      <property name="Sheetfile" value="Screens.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/Screens/" tstamps="/7bbc5ee4-a356-48de-a261-211ab35ec87b/"/>
+      <tstamps>7416f111-ca27-4aff-b93a-c7322629a4f6</tstamps>
+    </comp>
+    <comp ref="RN3">
+      <value>10k_Array</value>
+      <footprint>BadgePirates:R_Array_Convex_4x0603</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811091020_YAGEO-YC164-FR-0710KL_C110924.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">YC164-RR-0710KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C110924</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Resistor-Networks-Arrays_YAGEO-YC164-FR-0710KL_C110924.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="YC164-RR-0710KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C110924"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Resistor-Networks-Arrays_YAGEO-YC164-FR-0710KL_C110924.html"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="4 resistor network, parallel topology"/>
+      <property name="ki_keywords" value="R network parallel topology isolated"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>fef6ba65-2e17-4943-b0b8-f0cd41be61ca</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>b83e297b-deb0-46e3-9254-edf7b6c3bb81</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>fa32e670-f442-45be-859a-7db4a46c1c21</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>d0f25042-9557-4fb1-ab10-edc3dd0aea5b</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>af63d23c-44c2-49e5-b223-2cfb97959d27</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>e62ae20e-feae-4b35-b77e-05a92b829b82</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_ALPSALPINE-EC11E1820402_C361167.pdf</datasheet>
+      <fields>
+        <field name="MFG">ALPSALPINE</field>
+        <field name="MFG_PN">EC11E1820402</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C361167</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E1820402_C361167.html</field>
+      </fields>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="MFG" value="ALPSALPINE"/>
+      <property name="MFG_PN" value="EC11E1820402"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C361167"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E1820402_C361167.html"/>
+      <property name="Sheetname" value="RotaryEncoders"/>
+      <property name="Sheetfile" value="RotaryEncoders.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="ki_keywords" value="rotary switch encoder switch push button"/>
+      <sheetpath names="/RotaryEncoders/" tstamps="/ff8f9cdd-09f7-411c-a6c9-936ea8d6f21e/"/>
+      <tstamps>0b327aa9-25cf-450d-8233-e7475a05c48b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</datasheet>
+      <fields>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="C_.1uf_0805" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TORCH "/>
+      <property name="MFG_PN" value="CT41G-0805-2X1-50V-0.1μF-K(N)"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C126469"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html"/>
+      <property name="Sheetname" value="Max17048"/>
+      <property name="Sheetfile" value="Max17048.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Power and Charge Curcuit/Max17048/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/50cd2632-424e-4caa-986e-e3deda989559/"/>
+      <tstamps>8b99f631-1e93-4e7b-8931-d174e86865aa</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-0710KL_C132649.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-0710KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C132649</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-0710KL_C132649.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_10k_1206" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RC1206FR-0710KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C132649"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-0710KL_C132649.html"/>
+      <property name="Sheetname" value="Max17048"/>
+      <property name="Sheetfile" value="Max17048.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/Power and Charge Curcuit/Max17048/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/50cd2632-424e-4caa-986e-e3deda989559/"/>
+      <tstamps>8676a369-5a06-48be-80a7-f016813e20a7</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MAX17048</value>
+      <footprint>BadgePirates:MAX17048_TDFN</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17048-MAX17049.pdf</datasheet>
+      <fields>
+        <field name="MFG">Analog Devices Inc</field>
+        <field name="MFG_PN">MAX17048G+</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2682616</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Battery-Management-ICs_Analog-Devices-Inc-Maxim-Integrated-MAX17048G-T10_C2682616.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="MAX17048" description="3μA 1-Cell/2-Cell Fuel Gauge with ModelGauge"/>
+      <property name="MFG" value="Analog Devices Inc"/>
+      <property name="MFG_PN" value="MAX17048G+"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C2682616"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Battery-Management-ICs_Analog-Devices-Inc-Maxim-Integrated-MAX17048G-T10_C2682616.html"/>
+      <property name="Sheetname" value="Max17048"/>
+      <property name="Sheetfile" value="Max17048.kicad_sch"/>
+      <property name="ki_description" value="3μA 1-Cell/2-Cell Fuel Gauge with ModelGauge"/>
+      <sheetpath names="/Power and Charge Curcuit/Max17048/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/50cd2632-424e-4caa-986e-e3deda989559/"/>
+      <tstamps>2b77c5b3-670a-4d84-b070-b31bc39dfd9b</tstamps>
+    </comp>
+    <comp ref="BT1">
+      <value>Battery</value>
+      <footprint>BadgePirates:Battery - 14500</footprint>
+      <datasheet>https://www.keyelco.com/userAssets/file/M65p10.pdf</datasheet>
+      <fields>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG_PN">53</field>
+        <field name="Vendor1">DigiKey</field>
+        <field name="Vendor1_PN">36-53-ND</field>
+        <field name="Vendor1_URL">https://www.digikey.com/en/products/detail/keystone-electronics/53/2745544</field>
+      </fields>
+      <libsource lib="BadgePirates" part="Battery_Connector_14500_x2" description="Multiple-cell battery"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Keystone Electronics"/>
+      <property name="MFG_PN" value="53"/>
+      <property name="Vendor1" value="DigiKey"/>
+      <property name="Vendor1_PN" value="36-53-ND"/>
+      <property name="Vendor1_URL" value="https://www.digikey.com/en/products/detail/keystone-electronics/53/2745544"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Multiple-cell battery"/>
+      <property name="ki_keywords" value="batt voltage-source cell"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>3889c8af-59d2-4d9a-b9ab-c3bdfe23802b</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>Battery</value>
+      <footprint>BadgePirates:Battery - 14500</footprint>
+      <datasheet>https://www.keyelco.com/userAssets/file/M65p10.pdf</datasheet>
+      <fields>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG_PN">53</field>
+        <field name="Vendor1">DigiKey</field>
+        <field name="Vendor1_PN">36-53-ND</field>
+        <field name="Vendor1_URL">https://www.digikey.com/en/products/detail/keystone-electronics/53/2745544</field>
+      </fields>
+      <libsource lib="BadgePirates" part="Battery_Connector_14500_x2" description="Multiple-cell battery"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Keystone Electronics"/>
+      <property name="MFG_PN" value="53"/>
+      <property name="Vendor1" value="DigiKey"/>
+      <property name="Vendor1_PN" value="36-53-ND"/>
+      <property name="Vendor1_URL" value="https://www.digikey.com/en/products/detail/keystone-electronics/53/2745544"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Multiple-cell battery"/>
+      <property name="ki_keywords" value="batt voltage-source cell"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>fecd645a-eb46-4a7f-860f-8e839274c164</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf</datasheet>
+      <fields>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG_PN">CL21B105KBFNNNE</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C28323</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG_PN" value="CL21B105KBFNNNE"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C28323"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>ba12218a-e19f-479a-bd82-893f0af67f7a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>BadgePirates:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</datasheet>
+      <fields>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="C_.1uf_0805" description="Unpolarized capacitor, small symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TORCH "/>
+      <property name="MFG_PN" value="CT41G-0805-2X1-50V-0.1μF-K(N)"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C126469"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>baa805dc-f44f-4117-913b-f0476ac46aed</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100uF</value>
+      <footprint>BadgePirates:100uf_CP_Pad1.50x2.35mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Kyocera-AVX-TAJB107M006RNJ_C7195.pdf</datasheet>
+      <fields>
+        <field name="MFG">KYOCERA AVX</field>
+        <field name="MFG_PN">TAJB107M006RNJ</field>
+        <field name="Package">CASE-B-3528</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C7195</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJB107M006RNJ_C7195.html</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Package" value="CASE-B-3528"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="KYOCERA AVX"/>
+      <property name="MFG_PN" value="TAJB107M006RNJ"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C7195"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Tantalum-Capacitors_Kyocera-AVX-TAJB107M006RNJ_C7195.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>a7da36c5-c056-4256-836e-45a30cd8cd91</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Charging</value>
+      <footprint>BadgePirates:LED_1206</footprint>
+      <fields>
+        <field name="MFG">Foshan NationStar Optoelectronics</field>
+        <field name="MFG_PN">NCD1206B1</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C130717</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-span-style-background-color-ff0-LED-span_Foshan-NationStar-Optoelectronics-NCD1206B1_C130717.html</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="Foshan NationStar Optoelectronics"/>
+      <property name="MFG_PN" value="NCD1206B1"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C130717"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Light-Emitting-Diodes-span-style-background-color-ff0-LED-span_Foshan-NationStar-Optoelectronics-NCD1206B1_C130717.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>127257c4-e93f-4eb0-a525-20b1a972ebce</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810101859_TLC-Electronic-TLC-NSMD200_C261957.pdf</datasheet>
+      <fields>
+        <field name="MFG">TLC Electronic</field>
+        <field name="MFG_PN">TLC-NSMD200</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C261957</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD200_C261957.html</field>
+      </fields>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TLC Electronic"/>
+      <property name="MFG_PN" value="TLC-NSMD200"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C261957"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD200_C261957.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>d4823465-a0be-4447-9111-aa9fed9077f2</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Fuse</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810101859_TLC-Electronic-TLC-NSMD200_C261957.pdf</datasheet>
+      <fields>
+        <field name="MFG">TLC Electronic</field>
+        <field name="MFG_PN">TLC-NSMD200</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C261957</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD200_C261957.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="Fuse" description="Fuse"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TLC Electronic"/>
+      <property name="MFG_PN" value="TLC-NSMD200"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C261957"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD200_C261957.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>c8b47f08-1e1e-4d75-a024-ec7abac4ca93</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2k</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-072KL_C133543.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-072KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C133543</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-072KL_C133543.html</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="RC1206FR-072KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C133543"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-072KL_C133543.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>8b918c1e-94a1-4ee8-b4e7-dd055d1eeb5b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330</value>
+      <footprint>BadgePirates:R_1206_3216Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC1206JR-07330KL_C229929.pdf</datasheet>
+      <fields>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">AC1206JR-07330KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C229929</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC1206JR-07330KL_C229929.html</field>
+      </fields>
+      <libsource lib="BadgePirates" part="R_330k_1206" description="Resistor, small US symbol"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="YAGEO"/>
+      <property name="MFG_PN" value="AC1206JR-07330KL"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C229929"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC1206JR-07330KL_C229929.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>653f586f-4338-4a13-8ab4-d3f84c75a15e</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>On/Off</value>
+      <footprint>BadgePirates:SW_SPDT_PCM12</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1808041445_ALPSALPINE-SSSS811101_C109335.pdf</datasheet>
+      <fields>
+        <field name="MFG">ALPSALPINE</field>
+        <field name="MFG_PN">SSSS811101</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C109335</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Slide-Switches_ALPSALPINE-SSSS811101_C109335.html</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="ALPSALPINE"/>
+      <property name="MFG_PN" value="SSSS811101"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C109335"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Slide-Switches_ALPSALPINE-SSSS811101_C109335.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>b15958dc-8357-4ed6-9450-867b07f74d73</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LTC4054</value>
+      <footprint>BadgePirates:LTC4054</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_TPOWER-TP4054ST25K_C382138.pdf</datasheet>
+      <fields>
+        <field name="MFG">TPOWER</field>
+        <field name="MFG_PN">TP4054ST25K</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">TP4054ST25K</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Battery-Management-ICs_TPOWER-TP4054ST25K_C382138.html</field>
+      </fields>
+      <libsource lib="Battery_Management" part="LTC4054ES5-4.2" description="Constant-current/constant-voltage linear charger for single cell lithium-ion batteries with 2.9V Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celcius, TSOT-23-5"/>
+      <property name="OrderURL" value=""/>
+      <property name="MFG" value="TPOWER"/>
+      <property name="MFG_PN" value="TP4054ST25K"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="TP4054ST25K"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/Battery-Management-ICs_TPOWER-TP4054ST25K_C382138.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Constant-current/constant-voltage linear charger for single cell lithium-ion batteries with 2.9V Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celcius, TSOT-23-5"/>
+      <property name="ki_keywords" value="Constant-current constant-voltage linear charger single cell lithium-ion battery"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>299973a2-9374-4378-8503-24cc7b552c4b</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TLV1117LV33</value>
+      <footprint>BadgePirates:SOT-223</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809050431_Texas-Instruments-TLV1117LV33DCYR_C15578.pdf</datasheet>
+      <fields>
+        <field name="MFG">Texas Instruments</field>
+        <field name="MFG_PN">TLV1117LV33DCYR</field>
+        <field name="OrderURL">https://www.lcsc.com/product-detail/_Texas-Instruments-_C15578.html</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C15578</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/_Texas-Instruments-_C15578.html</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="TLV1117-33" description="800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"/>
+      <property name="OrderURL" value="https://www.lcsc.com/product-detail/_Texas-Instruments-_C15578.html"/>
+      <property name="MFG" value="Texas Instruments"/>
+      <property name="MFG_PN" value="TLV1117LV33DCYR"/>
+      <property name="Vendor1" value="LCSC"/>
+      <property name="Vendor1_PN" value="C15578"/>
+      <property name="Vendor1_URL" value="https://www.lcsc.com/product-detail/_Texas-Instruments-_C15578.html"/>
+      <property name="Sheetname" value="Power and Charge Curcuit"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <sheetpath names="/Power and Charge Curcuit/" tstamps="/9c384370-1ecc-475e-8475-82fb9bf02d4c/"/>
+      <tstamps>3e8b8986-6019-4e1a-b87a-4ca88a3d5a7b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BadgePirates" part="Badgelife_sao_connector_v169bis">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">Badgelife_sao_connector_v169bis</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="SDA" type="input"/>
+        <pin num="4" name="SCL" type="input"/>
+        <pin num="5" name="GPIO1" type="input"/>
+        <pin num="6" name="GPIO2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="Battery_Connector_14500_x2">
+      <description>Multiple-cell battery</description>
+      <docs>https://www.keyelco.com/userAssets/file/M65p10.pdf</docs>
+      <fields>
+        <field name="Reference">BT2</field>
+        <field name="Value">Battery</field>
+        <field name="Footprint">BadgePirates:Battery - 14500</field>
+        <field name="Datasheet">https://www.keyelco.com/userAssets/file/M65p10.pdf</field>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG_PN">53</field>
+        <field name="Vendor1">DigiKey</field>
+        <field name="Vendor1_PN">36-53-ND</field>
+        <field name="Vendor1_URL">https://www.digikey.com/en/products/detail/keystone-electronics/53/2745544</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="CH330N">
+      <description>USB serial converter, UART, SOIC-8</description>
+      <docs>http://www.wch.cn/downloads/file/240.html</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">CH340N</field>
+        <field name="Footprint">BadgePirates:SOIC-8-1EP_W3.9mm</field>
+        <field name="Datasheet">http://www.wch.cn/downloads/file/240.html</field>
+        <field name="MFG">WCH(Jiangsu Qin Heng)</field>
+        <field name="MFG_PN">CH340N</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2977777</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340N_C2977777.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UD+" type="bidirectional"/>
+        <pin num="2" name="UD-" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="~{RTS}" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="TXD" type="output"/>
+        <pin num="7" name="RXD" type="input"/>
+        <pin num="8" name="V3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="C_.1uf_0805">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C_.1uf_0805</field>
+        <field name="Value">0.1uF</field>
+        <field name="Footprint">BadgePirates:C_0805_2012Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2304140030_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.pdf</field>
+        <field name="MFG">TORCH </field>
+        <field name="MFG_PN">CT41G-0805-2X1-50V-0.1μF-K(N)</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C126469</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TORCH-CT41G-0805-2X1-50V-0-1-F-K-N_C126469.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="ESP32-S3-WROOM-1-N8">
+      <description>2.4 GHz WiFi (802.11 b/g/n) and Bluetooth ® 5 (LE) module Built around ESP32S3 series of SoCs, Xtensa ® dualcore 32bit LX7 microprocessor Flash up to 16 MB, PSRAM up to 8 MB 36 GPIOs, rich set of peripherals Onboard PCB antenna</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">ESP32-S3-WROOM-1-N8</field>
+        <field name="Footprint">Espressif:ESP32-S3-WROOM-1</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf</field>
+        <field name="MFG">ESPRESSIF</field>
+        <field name="MFG_PN">ESP32-S3-WROOM-1-N8</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2913200</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-WROOM-1-N4R8_C2913200.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GPIO4/TOUCH4/ADC1_CH3" type="bidirectional"/>
+        <pin num="5" name="GPIO5/TOUCH5/ADC1_CH4" type="bidirectional"/>
+        <pin num="6" name="GPIO6/TOUCH6/ADC1_CH5" type="bidirectional"/>
+        <pin num="7" name="GPIO7/TOUCH7/ADC1_CH6" type="bidirectional"/>
+        <pin num="8" name="GPIO15/U0RTS/ADC2_CH4/XTAL_32K_P" type="bidirectional"/>
+        <pin num="9" name="GPIO16/U0CTS/ADC2_CH5/XTAL_32K_NH5" type="bidirectional"/>
+        <pin num="10" name="GPIO17/U1TXD/ADC2_CH6" type="bidirectional"/>
+        <pin num="11" name="GPIO18/U1RXD/ADC2_CH7/CLK_OUT3" type="bidirectional"/>
+        <pin num="12" name="GPIO8/TOUCH8/ADC1_CH7/SUBSPICS1" type="bidirectional"/>
+        <pin num="13" name="GPIO19/U1RTS/ADC2_CH8/CLK_OUT2/USB_D-" type="bidirectional"/>
+        <pin num="14" name="GPIO20/U1CTS/ADC2_CH9/CLK_OUT1/USB_D+" type="bidirectional"/>
+        <pin num="15" name="GPIO3/TOUCH3/ADC1_CH2" type="bidirectional"/>
+        <pin num="16" name="GPIO46" type="bidirectional"/>
+        <pin num="17" name="GPIO9/TOUCH9/ADC1_CH8/FSPIHD/SUBSPIHD" type="bidirectional"/>
+        <pin num="18" name="GPIO10/TOUCH10/ADC1_CH9/FSPICS0/FSPIIO4/SUBSPICS0" type="bidirectional"/>
+        <pin num="19" name="GPIO11/TOUCH11/ADC2_CH0/FSPID/FSPIIO5/SUBSPID" type="bidirectional"/>
+        <pin num="20" name="GPIO12/TOUCH12/ADC2_CH1/FSPICLK/FSPIIO6/SUBSPICLK" type="bidirectional"/>
+        <pin num="21" name="GPIO13/TOUCH13/ADC2_CH2/FSPIQ/FSPIIO7/SUBSPIQ" type="bidirectional"/>
+        <pin num="22" name="GPIO14/TOUCH14/ADC2_CH3/FSPIWP/FSPIDQS/SUBSPIWP" type="bidirectional"/>
+        <pin num="23" name="GPIO21" type="bidirectional"/>
+        <pin num="24" name="GPIO47/SPICLK_P/SUBSPICLK_P_DIFF" type="bidirectional"/>
+        <pin num="25" name="GPIO48/SPICLK_N/SUBSPICLK_N_DIFF" type="bidirectional"/>
+        <pin num="26" name="GPIO45" type="bidirectional"/>
+        <pin num="27" name="GPIO0/BOOT" type="bidirectional"/>
+        <pin num="28" name="SPIIO6/GPIO35/FSPID/SUBSPID" type="bidirectional"/>
+        <pin num="29" name="SPIIO7/GPIO36/FSPICLK/SUBSPICLK" type="bidirectional"/>
+        <pin num="30" name="SPIDQS/GPIO37/FSPIQ/SUBSPIQ" type="bidirectional"/>
+        <pin num="31" name="GPIO38/FSPIWP/SUBSPIWP" type="bidirectional"/>
+        <pin num="32" name="MTCK/GPIO39/CLK_OUT3/SUBSPICS1" type="bidirectional"/>
+        <pin num="33" name="MTDO/GPIO40/CLK_OUT2" type="bidirectional"/>
+        <pin num="34" name="MTDI/GPIO41/CLK_OUT1" type="bidirectional"/>
+        <pin num="35" name="MTMS/GPIO42" type="bidirectional"/>
+        <pin num="36" name="U0RXD/GPIO44/CLK_OUT2" type="bidirectional"/>
+        <pin num="37" name="U0TXD/GPIO43/CLK_OUT1" type="bidirectional"/>
+        <pin num="38" name="GPIO2/TOUCH2/ADC1_CH1" type="bidirectional"/>
+        <pin num="39" name="GPIO1/TOUCH1/ADC1_CH0" type="bidirectional"/>
+        <pin num="40" name="GND" type="power_in"/>
+        <pin num="41" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="Fuse">
+      <description>Fuse</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1810101859_TLC-Electronic-TLC-NSMD200_C261957.pdf</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F1</field>
+        <field name="Value">Fuse</field>
+        <field name="Footprint">BadgePirates:R_1206_3216Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1810101859_TLC-Electronic-TLC-NSMD200_C261957.pdf</field>
+        <field name="MFG">TLC Electronic</field>
+        <field name="MFG_PN">TLC-NSMD200</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C261957</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Resettable-Fuses_TLC-Electronic-TLC-NSMD200_C261957.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="LED_RGB_WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D12</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">BadgePirates:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+        <field name="MFG">Worldsemi</field>
+        <field name="MFG_PN">WS2812B-B/T</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C2761795</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-B-T_C2761795.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="LED_Yellow_ReverseMount_Gullwing">
+      <description>Light emitting diode</description>
+      <docs>https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D2</field>
+        <field name="Value">LED</field>
+        <field name="Footprint">BadgePirates:LED_Osram_Lx_P47F_D2mm_ReverseMount_Proper_Mask Only</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/216/AA3528SYCKT09-1602219.pdf</field>
+        <field name="MFG">KingBright</field>
+        <field name="MFG_PN">AA3528SYCKT09</field>
+        <field name="Vendor1">Mouser</field>
+        <field name="Vendor1_PN">604-AA3528SYCKT09</field>
+        <field name="Vendor1_URL">https://www.mouser.com/ProductDetail/Kingbright/AA3528SYCKT09?qs=PzGy0jfpSMsmUm0ELhsFuQ%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="MAX17048">
+      <description>3μA 1-Cell/2-Cell Fuel Gauge with ModelGauge</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17048-MAX17049.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX17048</field>
+        <field name="Footprint">BadgePirates:MAX17048_TDFN</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17048-MAX17049.pdf</field>
+        <field name="MFG">Analog Devices Inc</field>
+        <field name="MFG_PN">MAX17048G+</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CTG" type="passive"/>
+        <pin num="2" name="CELL" type="passive"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="~{ALRT}" type="open_collector"/>
+        <pin num="6" name="QSTRT" type="passive"/>
+        <pin num="7" name="SCL" type="input"/>
+        <pin num="8" name="SDA" type="bidirectional"/>
+        <pin num="9" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="R_10k_1206">
+      <description>Resistor, small US symbol</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-0710KL_C132649.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R_10k_1206</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">BadgePirates:R_1206_3216Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-0710KL_C132649.pdf</field>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-0710KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C132649</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-0710KL_C132649.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="R_1k_1206">
+      <description>Resistor, small US symbol</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1810231210_YAGEO-RC1206FR-071KL_C131398.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R_1k_1206</field>
+        <field name="Value">1k</field>
+        <field name="Footprint">BadgePirates:R_1206_3216Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1810231210_YAGEO-RC1206FR-071KL_C131398.pdf</field>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RC1206FR-071KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C131398</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-071KL_C131398.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="R_330k_1206">
+      <description>Resistor, small US symbol</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC1206JR-07330KL_C229929.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R3</field>
+        <field name="Value">330</field>
+        <field name="Footprint">BadgePirates:R_1206_3216Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC1206JR-07330KL_C229929.pdf</field>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">AC1206JR-07330KL</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C229929</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-AC1206JR-07330KL_C229929.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="R_4.7k_1206">
+      <description>Resistor, small US symbol</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2210181830_YAGEO-RT1206FRE074K7L_C872804.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R26</field>
+        <field name="Value">4.7k</field>
+        <field name="Footprint">BadgePirates:R_1206_3216Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2210181830_YAGEO-RT1206FRE074K7L_C872804.pdf</field>
+        <field name="MFG">YAGEO</field>
+        <field name="MFG_PN">RT1206FRE074K7L</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C872804</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT1206FRE074K7L_C872804.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="R_5.1k_1206">
+      <description>Resistor, small US symbol</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-075K1L_C163372.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R11</field>
+        <field name="Value">5.1k</field>
+        <field name="Footprint">BadgePirates:R_1206_3216Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC1206FR-075K1L_C163372.pdf</field>
+        <field name="MFG">YEGEO</field>
+        <field name="MFG_PN">RC1206FR-075K1L</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C163372</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC1206FR-075K1L_C163372.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePirates" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1810010153_Omron-Electronics-B3U-1000P_C231329.pdf</docs>
+      <fields>
+        <field name="Reference">SW_Push</field>
+        <field name="Value">Reset</field>
+        <field name="Footprint">BadgePirates:Switch_Tactile_SMD_B3U-1000P-BPVersion</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1810010153_Omron-Electronics-B3U-1000P_C231329.pdf</field>
+        <field name="MFG">Omron Electronics</field>
+        <field name="MFG_PN">B3U-1000P</field>
+        <field name="Vendor1">LCSC</field>
+        <field name="Vendor1_PN">C231329</field>
+        <field name="Vendor1_URL">https://www.lcsc.com/product-detail/_Omron-Electronics-_C231329.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePiratesSymbolLibrary" part="PESD2USB3UV-TR">
+      <description>TVS Diode Array, 5.5V Standoff, 2 Channels, SOT-23 package</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PESD2USB3UV-T.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PESD2USB3UV-TR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PESD2USB3UV-T.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BadgePiratesSymbolLibrary" part="USB_C_Plug_USB2.0">
+      <description>USB 2.0-only Type-C Plug connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Plug*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">USB_C_Plug_USB2.0</field>
+        <field name="Footprint">BadgePirates:TYPE-C-31-M-14</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="passive"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="passive"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Battery_Management" part="LTC4054ES5-4.2">
+      <description>Constant-current/constant-voltage linear charger for single cell lithium-ion batteries with 2.9V Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celcius, TSOT-23-5</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf</docs>
+      <footprints>
+        <fp>TSOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC4054ES5-4.2</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-5</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CHRG}" type="open_collector"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="BAT" type="power_out"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="PROG" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x07_Pin">
+      <description>Generic connector, single row, 01x07, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Micro_SD_Card_Det1">
+      <description>Micro SD Card Socket with one card detection pin</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2110151630_XKB-Connectivity-XKTF-015-N_C381082.pdf</docs>
+      <footprints>
+        <fp>microSD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Micro_SD_Card_Det1</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2110151630_XKB-Connectivity-XKTF-015-N_C381082.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="bidirectional"/>
+        <pin num="2" name="DAT3/CD" type="bidirectional"/>
+        <pin num="3" name="CMD" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DAT0" type="bidirectional"/>
+        <pin num="8" name="DAT1" type="bidirectional"/>
+        <pin num="9" name="DET" type="passive"/>
+        <pin num="10" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Pack04">
+      <description>4 resistor network, parallel topology</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>SOIC*</fp>
+        <fp>R*Array*Concave*</fp>
+        <fp>R*Array*Convex*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Pack04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="R1.1" type="passive"/>
+        <pin num="2" name="R2.1" type="passive"/>
+        <pin num="3" name="R3.1" type="passive"/>
+        <pin num="4" name="R4.1" type="passive"/>
+        <pin num="5" name="R4.2" type="passive"/>
+        <pin num="6" name="R3.2" type="passive"/>
+        <pin num="7" name="R2.2" type="passive"/>
+        <pin num="8" name="R1.2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="RotaryEncoder_Switch">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs, with switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">RotaryEncoder_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Bridged">
+      <description>Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="TLV1117-33">
+      <description>800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tlv1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?252*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U4</field>
+        <field name="Value">TLV1117-33</field>
+        <field name="Footprint">BadgePirates:SOT-223</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tlv1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+        <pin num="4" name="VO" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BadgePirates">
+      <uri>C:/Users/KevinBennett/OneDrive - Tier 3 Tech/Badges/BadgePirates_Common_Library/BadgePiratesSymbol_Library/BadgePiratesSymbolLibrary.kicad_sym</uri>
+    </library>
+    <library logical="Battery_Management">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+BATT">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="CELL" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/Power and Charge Curcuit/BATTERY1+">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/Power and Charge Curcuit/BATTERY2+">
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/Power and Charge Curcuit/BATT_LVL_~{ALERT}">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="~{ALRT}" pintype="open_collector"/>
+    </net>
+    <net code="5" name="Boot">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="GPIO0/BOOT" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="D+">
+      <node ref="D19" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J8" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J8" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pinfunction="UD+" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="D-">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J8" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J8" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="UD-" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D19" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J7" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J8" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J8" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J8" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J8" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="SW9" pin="S2" pinfunction="S2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="40" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="41" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="CTG" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="QSTRT" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="9" name="IO01">
+      <node ref="U2" pin="39" pinfunction="GPIO1/TOUCH1/ADC1_CH0" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="IO02">
+      <node ref="U2" pin="38" pinfunction="GPIO2/TOUCH2/ADC1_CH1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="IO04">
+      <node ref="RN3" pin="7" pinfunction="R2.2" pintype="passive"/>
+      <node ref="SW9" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="GPIO4/TOUCH4/ADC1_CH3" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="IO05">
+      <node ref="RN3" pin="6" pinfunction="R3.2" pintype="passive"/>
+      <node ref="SW9" pin="B" pinfunction="B" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="GPIO5/TOUCH5/ADC1_CH4" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="IO06">
+      <node ref="U2" pin="6" pinfunction="GPIO6/TOUCH6/ADC1_CH5" pintype="bidirectional"/>
+      <node ref="U5" pin="8" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="IO07">
+      <node ref="U2" pin="7" pinfunction="GPIO7/TOUCH7/ADC1_CH6" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="15" name="IO08">
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="GPIO8/TOUCH8/ADC1_CH7/SUBSPICS1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="IO09">
+      <node ref="J7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="GPIO9/TOUCH9/ADC1_CH8/FSPIHD/SUBSPIHD" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="IO10">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="GPIO10/TOUCH10/ADC1_CH9/FSPICS0/FSPIIO4/SUBSPICS0" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="IO11">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="GPIO11/TOUCH11/ADC2_CH0/FSPID/FSPIIO5/SUBSPID" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="IO12">
+      <node ref="RN2" pin="7" pinfunction="R2.2" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="GPIO12/TOUCH12/ADC2_CH1/FSPICLK/FSPIIO6/SUBSPICLK" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="IO13">
+      <node ref="RN2" pin="6" pinfunction="R3.2" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="GPIO13/TOUCH13/ADC2_CH2/FSPIQ/FSPIIO7/SUBSPIQ" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="IO14">
+      <node ref="RN2" pin="5" pinfunction="R4.2" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="GPIO14/TOUCH14/ADC2_CH3/FSPIWP/FSPIDQS/SUBSPIWP" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="IO15">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="GPIO15/U0RTS/ADC2_CH4/XTAL_32K_P" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="IO16">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="GPIO16/U0CTS/ADC2_CH5/XTAL_32K_NH5" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="IO17">
+      <node ref="RN2" pin="8" pinfunction="R1.2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="GPIO17/U1TXD/ADC2_CH6" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="IO18">
+      <node ref="D10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U2" pin="11" pinfunction="GPIO18/U1RXD/ADC2_CH7/CLK_OUT3" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="IO19">
+      <node ref="U2" pin="13" pinfunction="GPIO19/U1RTS/ADC2_CH8/CLK_OUT2/USB_D-" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="IO20">
+      <node ref="RN3" pin="8" pinfunction="R1.2" pintype="passive"/>
+      <node ref="SW9" pin="S1" pinfunction="S1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="GPIO20/U1CTS/ADC2_CH9/CLK_OUT1/USB_D+" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="IO21">
+      <node ref="D13" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U2" pin="23" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="IO35">
+      <node ref="J2" pin="3" pinfunction="CMD" pintype="input"/>
+      <node ref="RN1" pin="7" pinfunction="R2.2" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="SPIIO6/GPIO35/FSPID/SUBSPID" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="IO36">
+      <node ref="J2" pin="5" pinfunction="CLK" pintype="input"/>
+      <node ref="RN1" pin="6" pinfunction="R3.2" pintype="passive"/>
+      <node ref="U2" pin="29" pinfunction="SPIIO7/GPIO36/FSPICLK/SUBSPICLK" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="IO37">
+      <node ref="J2" pin="7" pinfunction="DAT0" pintype="bidirectional"/>
+      <node ref="RN1" pin="5" pinfunction="R4.2" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="SPIDQS/GPIO37/FSPIQ/SUBSPIQ" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="IO38">
+      <node ref="U2" pin="31" pinfunction="GPIO38/FSPIWP/SUBSPIWP" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="IO45">
+      <node ref="U2" pin="26" pinfunction="GPIO45" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="IO46">
+      <node ref="U2" pin="16" pinfunction="GPIO46" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="IO47">
+      <node ref="J2" pin="2" pinfunction="DAT3/CD" pintype="bidirectional"/>
+      <node ref="RN1" pin="8" pinfunction="R1.2" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="GPIO47/SPICLK_P/SUBSPICLK_P_DIFF" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="IO48">
+      <node ref="U2" pin="25" pinfunction="GPIO48/SPICLK_N/SUBSPICLK_N_DIFF" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RN2" pin="1" pinfunction="R1.1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RN2" pin="2" pinfunction="R2.1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RN2" pin="3" pinfunction="R3.1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RN2" pin="4" pinfunction="R4.1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D10-DOUT)">
+      <node ref="D10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(D11-DOUT)">
+      <node ref="D11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(J8-CC1)">
+      <node ref="J8" pin="A5" pinfunction="CC1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J8-CC2)">
+      <node ref="J8" pin="B5" pinfunction="CC2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J8-SHIELD)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J8" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J8-VBUS-PadA4)">
+      <node ref="J8" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J8" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J8" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J8" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(SW1-A)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="BAT" pintype="power_out"/>
+    </net>
+    <net code="52" name="Net-(U1-PROG)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PROG" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(U1-~{CHRG})">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="~{CHRG}" pintype="open_collector"/>
+    </net>
+    <net code="54" name="RESET">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="RN3" pin="5" pinfunction="R4.2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="55" name="TCK">
+      <node ref="U2" pin="32" pinfunction="MTCK/GPIO39/CLK_OUT3/SUBSPICS1" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="TDI">
+      <node ref="U2" pin="34" pinfunction="MTDI/GPIO41/CLK_OUT1" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="TDO">
+      <node ref="U2" pin="33" pinfunction="MTDO/GPIO40/CLK_OUT2" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="TMS">
+      <node ref="U2" pin="35" pinfunction="MTMS/GPIO42" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="USB_RX_ESP_TX">
+      <node ref="U2" pin="37" pinfunction="U0TXD/GPIO43/CLK_OUT1" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="60" name="USB_TX_ESP_RX">
+      <node ref="U2" pin="36" pinfunction="U0RXD/GPIO44/CLK_OUT2" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="61" name="VBUS">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="62" name="VCC">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J2" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J7" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="RN1" pin="1" pinfunction="R1.1" pintype="passive"/>
+      <node ref="RN1" pin="2" pinfunction="R2.1" pintype="passive"/>
+      <node ref="RN1" pin="3" pinfunction="R3.1" pintype="passive"/>
+      <node ref="RN1" pin="4" pinfunction="R4.1" pintype="passive"/>
+      <node ref="RN3" pin="1" pinfunction="R1.1" pintype="passive"/>
+      <node ref="RN3" pin="2" pinfunction="R2.1" pintype="passive"/>
+      <node ref="RN3" pin="3" pinfunction="R3.1" pintype="passive"/>
+      <node ref="RN3" pin="4" pinfunction="R4.1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="V3" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U4" pin="4" pinfunction="VO" pintype="power_in"/>
+    </net>
+    <net code="63" name="unconnected-(D12-DOUT-Pad2)">
+      <node ref="D12" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(D13-DOUT-Pad2)">
+      <node ref="D13" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J2-DAT1-Pad8)">
+      <node ref="J2" pin="8" pinfunction="DAT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J2-DAT2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="DAT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J2-DET-Pad9)">
+      <node ref="J2" pin="9" pinfunction="DET" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(J7-Pin_1-Pad1)">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(J8-SBU1-PadA8)">
+      <node ref="J8" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(J8-SBU2-PadB8)">
+      <node ref="J8" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(SW1-C-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(SW4-Pad1)">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="73" name="unconnected-(SW4-Pad2)">
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="unconnected-(SW5-Pad1)">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="75" name="unconnected-(SW5-Pad2)">
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="unconnected-(SW6-Pad1)">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="77" name="unconnected-(SW6-Pad2)">
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="78" name="unconnected-(SW7-Pad1)">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="79" name="unconnected-(SW7-Pad2)">
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="80" name="unconnected-(SW8-Pad1)">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="81" name="unconnected-(SW8-Pad2)">
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="82" name="unconnected-(U2-GPIO3{slash}TOUCH3{slash}ADC1_CH2-Pad15)">
+      <node ref="U2" pin="15" pinfunction="GPIO3/TOUCH3/ADC1_CH2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U3-~{RTS}-Pad4)">
+      <node ref="U3" pin="4" pinfunction="~{RTS}" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

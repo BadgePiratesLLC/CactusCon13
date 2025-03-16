@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/drawing.pretty")(options "")(descr ""))
+  (lib (name "AAAA")(type "KiCad")(uri "C:/Users/KevinBennett/OneDrive - Tier 3 Tech/Badges/Project-RTV/Lib")(options "")(descr ""))
+)
